@@ -1,14 +1,14 @@
 # MyWallet
 
-Wallet Demo .
+iPhone Wallet Example .
 
-####参考资料：[http://www.voidcn.com/blog/xiaobo0134/article/p-5974624.html](http://www.voidcn.com/blog/xiaobo0134/article/p-5974624.html)
+### 参考资料：[http://www.voidcn.com/blog/xiaobo0134/article/p-5974624.html](http://www.voidcn.com/blog/xiaobo0134/article/p-5974624.html)
 
-####在线生成 pkpass: [https://www.passsource.com/](https://www.passsource.com/)
+### 在线生成 pkpass: [https://www.passsource.com/](https://www.passsource.com/)
 
-####服务器生成 pkpass: [https://github.com/tschoffelen/PHP-PKPass](https://github.com/tschoffelen/PHP-PKPass)
+### 服务器生成 pkpass: [https://github.com/tschoffelen/PHP-PKPass](https://github.com/tschoffelen/PHP-PKPass)
 
-# Screenshot
+## Screenshot
 
 <img src="image/Event.png" width="35%">
 <img src="image/Event2.png" width="35%">
@@ -17,4 +17,7 @@ Wallet Demo .
 
 
 
-# end.
+
+## License	
+
+Scrawl is released under the [MIT license](LICENSE). See LICENSE for details.
